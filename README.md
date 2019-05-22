@@ -35,3 +35,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 2. 创建一个基于webpack模板的新项目： vue init webpack my-echarts   ；除了Use ESLint to lint your code，tests，nightwatch
 下面这三个为no其他都是yes
 3 npm run dev 就可以跑起来了
+
+移动端项目操作详情：https://jspang.com/posts/2018/04/28/vue-koa2.html
